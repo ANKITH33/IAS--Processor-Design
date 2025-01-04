@@ -1,4 +1,4 @@
-# IAS-Processor-Design# IAS Processor Design
+# IAS-Processor-Design
 
 This repository contains the implementation of an IAS processor simulator. This project includes an assembler to convert assembly code into machine code and a processor simulator to execute the machine code.
 
